@@ -1,0 +1,35 @@
+_repo: The-Journal-of-a-Mission-to-the-Interior-of-Africa-in-the-Year-1805-Together-with-Other-Docume__8814
+contributor:
+  creator:
+    editor:
+      agent_name: Whishaw, J. (John)
+      alias: Whishaw, John
+      birthdate: 1764
+      deathdate: 1840
+      gutenberg_agent_id: '2886'
+      url: http://www.gutenberg.org/2009/agents/2886
+creator:
+  author:
+    agent_name: Park, Mungo
+    birthdate: 1771
+    deathdate: 1806
+    gutenberg_agent_id: '1755'
+    url: http://www.gutenberg.org/2009/agents/1755
+    wikipedia: http://en.wikipedia.org/wiki/Mungo_Park
+description: ''
+gutenberg_bookshelf: Africa
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8814'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Africa -- Discovery and exploration'
+- !lcc 'DT'
+title: "The Journal of a Mission to the Interior of Africa, in the Year 1805\r\nTogether\
+  \ with Other Documents, Official and Private, Relating to the Same Mission, to Which\
+  \ Is Prefixed an Account of the Life of Mr. Park"
+url: http://www.gutenberg.org/ebooks/8814
