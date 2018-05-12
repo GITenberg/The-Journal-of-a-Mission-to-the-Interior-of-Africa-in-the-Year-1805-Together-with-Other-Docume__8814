@@ -1,4 +1,5 @@
 _repo: The-Journal-of-a-Mission-to-the-Interior-of-Africa-in-the-Year-1805-Together-with-Other-Docume__8814
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,6 +9,9 @@ contributor:
       deathdate: 1840
       gutenberg_agent_id: '2886'
       url: http://www.gutenberg.org/2009/agents/2886
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Park, Mungo
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1755
     wikipedia: http://en.wikipedia.org/wiki/Mungo_Park
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8814#The-Journal-of-a-Mission-to-the-Interior-of-Africa-in-the-Year-1805-Together-with-Other-Docume_
 gutenberg_bookshelf: Africa
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
